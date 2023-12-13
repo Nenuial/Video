@@ -1,0 +1,18 @@
+---
+title: "Video"
+format:
+  letterbox-revealjs:
+    auto-play-media: false
+---
+
+## First slide
+
+Some text.
+
+## Example video autoplay {background-color="#000"}
+
+![](countdown.mp4)
+
+## Example video autoplay 2
+
+{{< video countdown.mp4 >}}
